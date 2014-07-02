@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-char Square[105][105];
+char Square[100][100];
 
 int main() {
 	int T;
